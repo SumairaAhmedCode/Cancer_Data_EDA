@@ -39,7 +39,7 @@ The 'health_data' dataset used for this analysis is not included in this reposit
 
 The analysis code is written in Python and utilizes popular data analysis and visualization libraries, including Pandas, Matplotlib, and Seaborn. The code is organized into sections, including data loading, preprocessing, basic exploration, and visualization.
 
-You can find the code for the analysis in the [Cancer_Data_EDA.ipynb](Cancer_Data_EDA.ipynb) Jupyter Notebook file in this repository. The notebook contains detailed comments explaining each step of the analysis and how the visualizations were created.
+You can find the code for the analysis in the [Cancer_data_EDA.ipynb](Cancer_data_EDA.ipynb) Jupyter Notebook file in this repository. The notebook contains detailed comments explaining each step of the analysis and how the visualizations were created.
 
 ## Results
 
